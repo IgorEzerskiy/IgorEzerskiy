@@ -1,4 +1,4 @@
-### 📨 Contact me
+### 📨 Contact me:
 
 ### 📚 Technology stack:
 - Development
@@ -46,9 +46,9 @@
 
 ![codewars](https://www.codewars.com/users/IgorEzerskiy/badges/large)
 
-### 💬 Social media
-### 📖 Courses
-### ⏳ Experience in companies
+### 💬 Social media:
+### 📖 Courses:
+### ⏳ Experience in companies:
 - Artjoker 14.02.2022 - today | System Administartor (with experience in DevOps & AQA)
 
 ### ⚙️ GitHub statistics:
