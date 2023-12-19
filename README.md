@@ -5,8 +5,6 @@
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django/django-rest" alt="django/django-rest" width="40" height="40"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp
-    <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" title="celery" alt="celery" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
@@ -31,6 +29,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Unofficial_SSH_Logo.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/FTP_LOGO.png/1200px-FTP_LOGO.png" title="ftp" alt="ftp" width="40" height="40"/>&nbsp
+  </div>
+- AQA
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp
+    <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
+    <img src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4" title="allure reports" alt="allure reports" width="40" height="40"/>&nbsp
+    <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/rwgv0yumrzt6uuce9jtm" title="percy" alt="percy" width="40" height="40"/>&nbsp
+    <img src="https://pbs.twimg.com/profile_images/1867636195/locust-logo-orignal_400x400.png" title="locust" alt="locust" width="40" height="40"/>&nbsp
+    <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="jmeter" alt="jmeter" width="40" height="40"/>&nbsp
   </div>
 - Tools
   <div>
