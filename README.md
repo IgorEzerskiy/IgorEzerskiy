@@ -1,5 +1,5 @@
 ### 📨 Contact me:
-
+[![Telegram Badge](https://img.shields.io/badge/-Igor_Ezerskiy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/go_k3nny) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ezerskiyigor2000@gmail.com)
 ### 📚 Technology stack:
 - Development
   <div>
