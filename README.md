@@ -1,3 +1,5 @@
+### 📨 Contact me
+
 ### 📚 Technology stack:
 - Development
   <div>
@@ -43,6 +45,8 @@
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/IgorEzerskiy/badges/large)
+
+### 💬 Social media
 
 ### ⚙️ GitHub statistics:
 
