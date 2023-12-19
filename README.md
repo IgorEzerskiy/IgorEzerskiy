@@ -16,6 +16,7 @@
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/bash/bash-plain.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp
   </div>
+  <br>
 - DevOps
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40"/>&nbsp
@@ -30,6 +31,7 @@
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/FTP_LOGO.png/1200px-FTP_LOGO.png" title="ftp" alt="ftp" width="40" height="40"/>&nbsp
   </div>
+  <br>
 - AQA
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp
@@ -39,6 +41,7 @@
     <img src="https://pbs.twimg.com/profile_images/1867636195/locust-logo-orignal_400x400.png" title="locust" alt="locust" width="40" height="40"/>&nbsp
     <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="jmeter" alt="jmeter" width="40" height="40"/>&nbsp
   </div>
+  <br>
 - Tools
   <div>
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
