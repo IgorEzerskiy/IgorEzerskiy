@@ -1,8 +1,14 @@
 ### Hi, I am Ezerskiy Igor👋😄
+
+<p>
+Focus at learning Python and web development in various market areas. I am interested in web development, DevOps, AQA and automation business processes.
+Highly skilled in communication and collaboration.
+</p>
+
 ---
-### 👨 About:
 ### 📨 Contact me:
 [![Telegram Badge](https://img.shields.io/badge/-Igor_Ezerskiy-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/go_k3nny) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ezerskiyigor2000@gmail.com)
+
 ### 📚 Technology stack:
 - Development
   <div>
@@ -55,13 +61,17 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" title="notion" alt="notion" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
   </div>
+  
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/IgorEzerskiy/badges/large)
 
 ### 📖 Courses:
+- [A-Level](https://a-level.com.ua/) 17.12.2022 - 28.06.2023 | [Python](https://a-level.com.ua/courses/python-online/)
+- [Python course at Udemy](https://www.udemy.com/course/python-ru/) 05.09.2023 - 25.10.2023
+
 ### ⏳ Experience in companies:
-- Artjoker 14.02.2022 - today | System Administartor (with experience in DevOps & AQA)
+- [Artjoker](https://artjoker.ua/ru/) 14.02.2022 - today | System Administartor (with experience in DevOps & AQA)
 
 ### ⚙️ GitHub statistics:
 
