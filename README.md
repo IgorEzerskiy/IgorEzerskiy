@@ -1,4 +1,4 @@
-### 📚 Technology stack
+### 📚 Technology stack:
 - Development
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
@@ -44,7 +44,7 @@
 
 ![codewars](https://www.codewars.com/users/IgorEzerskiy/badges/large)
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
@@ -57,5 +57,9 @@
   </tr>
 </table>
 
+### 🛠 Test tasks from interviews:
+  - Test app with celery+redis wrapped in docker<br>
+    <p>https://github.com/IgorEzerskiy/test_task_docker</p>
+    <p></p>https://github.com/IgorEzerskiy/test_app</p>
 ---
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=IgorEzerskiy&countColor=%2337d67a&style=flat)
