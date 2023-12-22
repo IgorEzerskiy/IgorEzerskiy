@@ -38,8 +38,6 @@ Highly skilled in communication and collaboration.
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="google cloud" alt="google cloud" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Zabbix_logo_square.svg/2500px-Zabbix_logo_square.svg.png" title="zabbix" alt="zabbix" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Unofficial_SSH_Logo.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp
-    <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/FTP_LOGO.png/1200px-FTP_LOGO.png" title="ftp" alt="ftp" width="40" height="40"/>&nbsp
   </div>
   <br>
 - AQA
