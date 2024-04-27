@@ -70,7 +70,7 @@ Highly skilled in communication and collaboration.
 - [Python course at Udemy](https://www.udemy.com/course/python-ru/) 05.09.2023 - 25.10.2023
 
 ### ⏳ Experience in companies:
-- [Artjoker](https://artjoker.ua/ru/) 14.02.2022 - today | System Administartor (with experience in DevOps & AQA)
+- [Artjoker](https://artjoker.ua/ru/) 14.02.2022 - today | DevOps (with experience in AQA)
 
 ### ⚙️ GitHub statistics:
 
