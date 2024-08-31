@@ -80,7 +80,7 @@ Highly skilled in communication and collaboration.
 
 ### ⏳ Experience in companies:
 - [Artjoker](https://artjoker.ua/ru/) 14.02.2022 - today | DevOps (with experience in AQA)
-- [GoIt](https://goit.global/ua-ru/) 23.04.2022 - today | Mentor at Data Science course
+- [GoIt](https://goit.global/ua-ru/) 23.04.2024 - today | Mentor at Data Science course
 
 ### ⚙️ GitHub statistics:
 
