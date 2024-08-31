@@ -14,10 +14,14 @@ Highly skilled in communication and collaboration.
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django/django-rest" alt="django/django-rest" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fast-api" alt="fast-api" width="40" height="40"/>&nbsp
+    <img src="https://ih1.redbubble.net/image.5521029718.9185/st,small,507x507-pad,600x600,f8f8f8.jpg" title="flask" alt="flask" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" title="celery" alt="celery" width="40" height="40"/>&nbsp
+    <img src="https://static-00.iconduck.com/assets.00/rabbitmq-icon-484x512-s9lfaapn.png" title="rabbitmq" alt="rabbitmq" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
+    <img src="https://marketplacedesignoye.s3.ap-south-1.amazonaws.com/mongodb-branding-icon-symbol-logo-vector-_1540.png" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
@@ -38,6 +42,9 @@ Highly skilled in communication and collaboration.
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="google cloud" alt="google cloud" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Zabbix_logo_square.svg/2500px-Zabbix_logo_square.svg.png" title="zabbix" alt="zabbix" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Unofficial_SSH_Logo.svg" title="ssh" alt="ssh" width="40" height="40"/>&nbsp
+    <img src="https://brandslogos.com/wp-content/uploads/thumbs/aws-ec2-logo-vector.svg" title="ec2" alt="ec2" width="40" height="40"/>&nbsp
+    <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3-simple-storage-service.svg" title="s3" alt="s3" width="40" height="40"/>&nbsp
+    <img src="https://newrelic.com/sites/default/files/quickstarts/images/icons/aws-mq--logo.svg" title="awsmq" alt="awsmq" width="40" height="40"/>&nbsp
   </div>
   <br>
 - AQA
@@ -46,7 +53,7 @@ Highly skilled in communication and collaboration.
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/pytest/pytest-original.svg" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
     <img src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4" title="allure reports" alt="allure reports" width="40" height="40"/>&nbsp
     <img src="https://images.crunchbase.com/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/rwgv0yumrzt6uuce9jtm" title="percy" alt="percy" width="40" height="40"/>&nbsp
-    <img src="https://pbs.twimg.com/profile_images/1867636195/locust-logo-orignal_400x400.png" title="locust" alt="locust" width="40" height="40"/>&nbsp
+    <img src="https://qamania.org/wp-content/uploads/2020/03/1_iHbPgMP5K4WWaP2RDBD37w.png" title="locust" alt="locust" width="40" height="40"/>&nbsp
     <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="jmeter" alt="jmeter" width="40" height="40"/>&nbsp
   </div>
   <br>
@@ -56,6 +63,7 @@ Highly skilled in communication and collaboration.
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/confluence/confluence-original.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" alt="trello" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" title="notion" alt="notion" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
@@ -68,9 +76,11 @@ Highly skilled in communication and collaboration.
 ### 📖 Courses:
 - [A-Level](https://a-level.com.ua/) 17.12.2022 - 28.06.2023 | [Python](https://a-level.com.ua/courses/python-online/)
 - [Python course at Udemy](https://www.udemy.com/course/python-ru/) 05.09.2023 - 25.10.2023
+- [Django course at Udemy](https://www.udemy.com/course/python-django-build-an-e-commerce-store-2022/?couponCode=OF83024E) 11.01.2024 - 01.03.2024
 
 ### ⏳ Experience in companies:
 - [Artjoker](https://artjoker.ua/ru/) 14.02.2022 - today | DevOps (with experience in AQA)
+- [GoIt](https://goit.global/ua-ru/) 23.04.2022 - today | Mentor at Data Science course
 
 ### ⚙️ GitHub statistics:
 
