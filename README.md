@@ -79,8 +79,9 @@ Highly skilled in communication and collaboration.
 - [Django course at Udemy](https://www.udemy.com/course/python-django-build-an-e-commerce-store-2022/?couponCode=OF83024E) 11.01.2024 - 01.03.2024
 
 ### ⏳ Experience in companies:
-- [Artjoker](https://artjoker.ua/ru/) 14.02.2022 - today | DevOps (with experience in AQA)
+- [Artjoker](https://artjoker.ua/ru/) 14.02.2022 - today | DevOps (with experience in AQA, MLOps, Backend development, AI integrations)
 - [GoIt](https://goit.global/ua-ru/) 23.04.2024 - today | Mentor at Data Science course
+- [HUBIdeas](https://www.instagram.com/hubideas_zm?igsh=Z2J3MW82NG05M3Zu) 01.08.2024 - today | Python language teacher on a volunteer basis
 
 ### ⚙️ GitHub statistics:
 
