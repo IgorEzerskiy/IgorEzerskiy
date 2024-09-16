@@ -36,7 +36,7 @@ Highly skilled in communication and collaboration.
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
-    <img src="https://www.davidprat.com/wp-content/uploads/2022/04/ansible-1.jpeg" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
+    <img src="https://static-00.iconduck.com/assets.00/ansible-icon-2048x2048-ba8ueimn.png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="digitalocena" alt="digitalocena" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" title="cloudflare" alt="cloudflare" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="google cloud" alt="google cloud" width="40" height="40"/>&nbsp
