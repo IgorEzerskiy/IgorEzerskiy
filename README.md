@@ -14,6 +14,7 @@ Highly skilled in communication and collaboration.
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django/django-rest" alt="django/django-rest" width="40" height="40"/>&nbsp
+    <img src="https://p7.hiclipart.com/preview/925/552/880/odoo-enterprise-resource-planning-computer-software-logo-customer-relationship-management-odoo.jpg" title="odoo" alt="odoo" width="40" height="40"/>&nbsp
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="fast-api" alt="fast-api" width="40" height="40"/>&nbsp
     <img src="https://ih1.redbubble.net/image.5521029718.9185/st,small,507x507-pad,600x600,f8f8f8.jpg" title="flask" alt="flask" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" title="celery" alt="celery" width="40" height="40"/>&nbsp
@@ -67,6 +68,10 @@ Highly skilled in communication and collaboration.
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" title="notion" alt="notion" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
+  </div>
+- Automation tools
+  <div>
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" title="n8n" alt="n8n" width="40" height="40"/>&nbsp
   </div>
   
 ### 💻 Codewars:
