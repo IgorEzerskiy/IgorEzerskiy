@@ -1,4 +1,4 @@
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/35362246-dc1e-4ea2-ae81-0854d3eb7817" />### Hi, I am Ezerskiy Igor👋😄
+### Hi, I am Ezerskiy Igor👋😄
 
 <p>
 Focus at learning Python and web development in various market areas. I am interested in web development, DevOps, AQA and automation business processes.
