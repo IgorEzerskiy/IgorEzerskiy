@@ -81,7 +81,7 @@ Highly skilled in communication and collaboration.
     <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e0cf0d4f-1aa3-4f28-a4ca-1bb35802b802.png?w=128&h=128&fit=max&dpr=3&auto=format&q=50" title="scrape.do" alt="scrape.do" width="40" height="40"/>&nbsp
   </div>
   <br>
-- Tools
+- Other tools
   <div>
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/confluence/confluence-original.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp
