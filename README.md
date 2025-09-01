@@ -37,7 +37,7 @@ Highly skilled in communication and collaboration.
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmnDk9gERj4UTGIp6GtTDLtSNcvxFF0-rv5g&s" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
+    <img src="https://img.icons8.com/?size=512&id=iGCCE2iEmh2u&format=png" title="ansible" alt="ansible" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="digitalocena" alt="digitalocena" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cloudflare_Logo.png/480px-Cloudflare_Logo.png" title="cloudflare" alt="cloudflare" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="google cloud" alt="google cloud" width="40" height="40"/>&nbsp
