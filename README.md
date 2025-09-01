@@ -1,4 +1,4 @@
-### Hi, I am Ezerskiy Igor👋😄
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/35362246-dc1e-4ea2-ae81-0854d3eb7817" />### Hi, I am Ezerskiy Igor👋😄
 
 <p>
 Focus at learning Python and web development in various market areas. I am interested in web development, DevOps, AQA and automation business processes.
@@ -58,6 +58,28 @@ Highly skilled in communication and collaboration.
     <img src="https://jmeter.apache.org/images/jmeter_square.svg" title="jmeter" alt="jmeter" width="40" height="40"/>&nbsp
   </div>
   <br>
+- ML/AI
+  <div>
+    <img src="https://user-images.githubusercontent.com/98330/64479472-4b35c900-d16c-11e9-8d49-71fc02cd539f.png" title="numpy" alt="numpy" width="40" height="40"/>&nbsp
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" title="Matplotlib" alt="Matplotlib" width="40" height="40"/>&nbsp
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" title="pandas" alt="pandas" width="40" height="40"/>&nbsp
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="seaborn" alt="seaborn" width="40" height="40"/>&nbsp
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" title="Scikit_learn" alt="Scikit_learn" width="40" height="40"/>&nbsp
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" title="Keras" alt="Keras" width="40" height="40"/>&nbsp
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" title="huggingface" alt="huggingface" width="40" height="40"/>&nbsp
+    <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" title="openai_api" alt="openai_api" width="40" height="40"/>&nbsp
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGDKmSgL7UJ6sstMUQTtjI2iDN7ClN2jRZ5Q&s" title="streamlit" alt="streamlit" width="40" height="40"/>&nbsp
+  </div>
+  <br>
+- Automation tools/Parsing
+  <div>
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" title="n8n" alt="n8n" width="40" height="40"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium" alt="selenium" width="40" height="40"/>&nbsp
+    <img src="https://cdn6.aptoide.com/imgs/2/5/0/25076fbfcc751124dcfca0988bd56bba_icon.png" title="bs4" alt="bs4" width="40" height="40"/>&nbsp
+    <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/e0cf0d4f-1aa3-4f28-a4ca-1bb35802b802.png?w=128&h=128&fit=max&dpr=3&auto=format&q=50" title="scrape.do" alt="scrape.do" width="40" height="40"/>&nbsp
+  </div>
+  <br>
 - Tools
   <div>
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
@@ -68,10 +90,6 @@ Highly skilled in communication and collaboration.
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" title="notion" alt="notion" width="40" height="40"/>&nbsp
     <img src="https://github.com/IgorEzerskiy/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-  </div>
-- Automation tools
-  <div>
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/n8n-color.png" title="n8n" alt="n8n" width="40" height="40"/>&nbsp
   </div>
   
 ### 💻 Codewars:
