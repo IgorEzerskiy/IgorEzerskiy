@@ -66,6 +66,7 @@ Highly skilled in communication and collaboration.
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="seaborn" alt="seaborn" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" title="Scikit_learn" alt="Scikit_learn" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/957px-Tensorflow_logo.svg.png" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhyOAyEZ7rQuXiP6Kxx0B9y_aJ59fRniUVRw&s" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" title="Keras" alt="Keras" width="40" height="40"/>&nbsp
     <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" title="huggingface" alt="huggingface" width="40" height="40"/>&nbsp
     <img src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png" title="openai_api" alt="openai_api" width="40" height="40"/>&nbsp
